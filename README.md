@@ -19,7 +19,7 @@
     จะ run simulator พร้อม Debug ให้รอจนกว่าจะติดตั้งเสร็จเรียบร้อย
   
   ### Android
-    เข้าไปที่อยู่ Folder ios --> *xx/xx/Linkteam/android* แล้วพิมพ์คำสั่งตามด้านล่าง
+    เข้าไปที่อยู่ Folder android --> *xx/xx/Linkteam/android* แล้วพิมพ์คำสั่งตามด้านล่าง
     **./gradlew clean**
     กลับไปที่ folder หลัก Linkteam run คำสั่ง
     * **npm react-native run-android** || ถ้าใช้ yarn ให้พิมพ์คำสั่ง **yarn react-native run-android**
