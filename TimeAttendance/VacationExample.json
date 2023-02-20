@@ -1,0 +1,73 @@
+[
+    {
+        "type": "ลากิจ",
+        "status": "reject",
+        "head_status": "approved",
+        "hr_status": "reject",
+        "reason": "ไปเที่ยว",
+        "start_date": "10/23/2020",
+        "end_date": "10/31/2020"
+    },
+
+    {
+        "type": "ลาป่วย",
+        "status": "pending",
+        "head_status": "approved",
+        "hr_status": "reject",
+        "reason": "ปวดท้อง",
+        "start_date": "10/23/2020",
+        "end_date": "11/1/2020"
+    },
+
+    {
+        "type": "ลาป่วย",
+        "status": "approved",
+        "head_status": "approved",
+        "hr_status": "approved",
+        "reason": "ถ่ายไม่หยุด",
+        "start_date": "10/26/2020",
+        "end_date": "10/27/2020"
+    },
+
+    {
+        "type": "ลากิจ",
+        "status": "approved",
+        "head_status": "approved",
+        "hr_status": "approved",
+        "reason": "ไปเที่ยว",
+        "start_date": "10/23/2020",
+        "end_date": "10/31/2020"
+    },
+
+    {
+        "type": "ลากิจ",
+        "status": "reject",
+        "head_status": "reject",
+        "hr_status": "pending",
+        "reason": "ไปเที่ยว",
+        "start_date": "10/23/2020",
+        "end_date": "10/31/2020"
+    },
+
+    {
+        "type": "ลากิจ",
+        "status": "reject",
+        "head_status": "reject",
+        "hr_status": "pending",
+        "reason": "ไปเที่ยว",
+        "start_date": "10/23/2020",
+        "end_date": "10/31/2020"
+    },
+
+    {
+        "type": "ลากิจ",
+        "status": "reject",
+        "head_status": "reject",
+        "hr_status": "pending",
+        "reason": "ไปเที่ยว",
+        "start_date": "12/29/2020",
+        "end_date": "1/1/2021"
+    }
+
+
+]

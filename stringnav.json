@@ -1,0 +1,29 @@
+
+{
+    "login": "Login",
+    "forgot": "Forgot Password",
+    "home": "Home",
+    "profile": "Profile",
+    "card": "Card",
+    "profileNav": {
+        "history": "Assets",
+        "addassert": "AddAsset",
+        "confirmasset": "Confirm Asset",
+        "assetdetail": "AssetDetail",
+        "companyprofile": "Company Profile",
+        "doc": "Certificate"
+    },
+    "staffcontact": "Staff Contact",
+    "announcement": "Announcement",
+    "PDFView": "Pdf Viewer",
+    "time": "TimeAttendance",
+    "checkin": "Check in workplace",
+    "history_vacation": "Vacation History",
+    "history_vacation_detail": "Vacation History Detail",
+    "holiday": "Holiday",
+    "leave_request": "Vacation Request",
+    "benefit": "Benefit and Welfare Management",
+    "settings": "Settings",
+    "settings_language": "Language",
+    "term": "Term and Condition"
+}
