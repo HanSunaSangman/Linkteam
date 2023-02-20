@@ -1,0 +1,153 @@
+{
+    "login": {
+        "logo": "Smart HR System",
+        "email": "อีเมล/เบอร์โทรศัพท์ :",
+        "password": "รหัสผ่าน",
+        "login": "ลงชื่อเข้าใช้",
+        "remember": "จำบัญชีนี้",
+        "forgot": "ลืมรหัสผ่าน"
+    },
+    
+    "home": {
+        "hello": "สวัสดี!",
+        "personal": "การจัดการประวัติส่วนตัว",
+        "time": "การเข้างานและการลาหยุด",
+        "benefit": "สวัสดิการและสิทธิประโยชน์",
+        "evaluate": "การประเมิน",
+        "engagement": "การว่าจ้าง",
+        "notification": "การแจ้งเตือน",
+        "payroll": "การจัดการบัญชี",
+        "recruitment": "การจัดการว่าจ้าง",
+        "training": "การฝึกอบรมและการพัฒนา",
+        "quit": "ออกจากแอพพลิเคชั่น",
+        "quit_message": "ต้องการออกจากแอพพลิเคชั่นหรือไม่",
+        "quit_ok": "ตกลง",
+        "quit_cancel": "ยกเลิก"
+    },
+
+    "profile":{
+        "profile": "โปรไฟล์",
+        "asset": "ทรัพย์สิน",
+        "companyprofile": "ข้อมูลบริษัท",
+        "certificate": "หนังสือรับรอง",
+        "share": "แบ่งปันนามบัตร",
+        "contact": "ติดต่อ",
+        "mobile": "มือถือ",
+        "mail": "อีเมล",
+        "line": "ไลน์",
+        "information": "ข้อมูล",
+        "companyname": "ชื่อบริษัท",
+        "position": "ตำแหน่ง",
+        "tel": "Tel",
+        "lineas": "Line@",
+        "taxid": "TAX ID",
+        "redeem": "เบิกสินค้า",
+        "asset_detail": "รายละเอียดทรัพย์สิน",
+        "return": "คืนสินค้า",
+        "serial":"เลขประจำเครื่อง",
+        "addAsset":{
+            "chooseone": "โปรดเลือกวัตถุประสงค์",
+            "brand": "ยี่ห้อ",
+            "model": "รุ่น",
+            "quantity": "จำนวนสินค้า",
+            "objective": "วัตถุประสงค์",
+            "reason": "เหตุผล",
+            "please_fill": "โปรดกรอกข้อมูล",
+            "mark": "หมายเหตุ",
+            "request": "ส่งคำร้อง",
+            "confirm": "ยืนยันคำร้องขอ",
+            "confirm_btn": "ยืนยัน",
+            "confirm_description": "กดยืนยันเพื่อส่งคำร้องขอ",
+            "nodetail": "ไม่มีข้อความ"
+        },
+        "type": "ประเภทสินค้า",
+        "computer": "คอมพิวเตอร์",
+        "equipment": "เครื่องใช้สำนักงาน",
+        "borrow_date": "วันที่ยืม",
+        "companyProfile":{
+            "word1": "WTC Computer บริษัท ดับบลิวทีซี คอมพิวเตอร์ จำกัด",
+            "word2": "เป็นบริษัทฯที่ดำเนินธุรกิจด้านการจำหน่าย Computer ทุกประเภท",
+            "word3": "รวมทั้งอุปกรณ์ IT และเทคโนโลยีสมัยใหม่ รวมทั้งให้บริการด้านการออกแบบ และวางระบบงานคอมพิวเตอร์อย่างครบวงจร (System Integration) โดยทีมบุคลากรที่มีประสบการณ์ากกว่า 20 ปี",
+            "contactus": "CONTACT US",
+            "webWtc": "www.wtc.co.th",
+            "faceWtc": "WTCComputerThailand",
+            "asWtc": "@WTCComputer",
+            "phoneWtc": "+66-2612-1188",
+            "sale": "sale@wtc.co.th",
+            "taxid": "0105535003874",
+            "address": "128/343-344 Phayathai Plaza 31st FL., Phatathai Rd. Thungphatathai, Ratchathewi, Bangkok, 10400",
+            "staffcontact": "ข้อมูลติดต่อพนักงาน",
+            "announce": "ประกาศบริษัท",
+            "search": "ค้นหาข้อมูลติดต่อพนักงาน",
+            "desk": "เบอร์โต๊ะ",
+            "call": "โทร",
+            "email": "อีเมล"
+        },
+        "document":{
+            "approve": "ขออนุมัติ",
+            "download": "ดาวโหลด"
+        },"card": {
+            "save": "บันทึก",
+            "close": "ปิด",
+            "success": "บันทึกสำเร็จ"
+        }
+    },
+
+    "timeAttendance": {
+        "checkinworkplace": "เช็คอินสถานที่ทำงาน",
+        "vacation_history": "ประวัติการลา",
+        "vacation_detail": "รายละเอียดการลา",
+        "holiday": "วันหยุด",
+        "checkin": "เช็คอิน",
+        "checkout": "เช็คเอ้าท์",
+        "checkin_out": "เวลาเข้า-ออกทำงานนอกสถานที่",
+        "in_time": "เวลาเข้างาน",
+        "out_time": "เวลาออกงาน",
+        "total_hour": "ชั่วโมงการทำงานทั้งหมด = ",
+        "hour": "ชั่วโมง"
+    },
+
+    "holiday": {
+        "type": "ประเภทวันลา",
+        "day": "จำนวนวัน",
+        "leave_request": "ขอลาหยุด",
+        "start_date": "เริ่มวันและเวลา",
+        "end_date": "สิ้นสุดวันและเวลา",
+        "admit_leave": "ลาป่วย",
+        "business_leave": "ลากิจ",
+        "holiday_leave": "ลาพักร้อน",
+        "chooseone": "โปรดเลือกประเภทการลา",
+        "selectDate": "โปรดเลือกวันที่และเวลา",
+        "reason": "สาเหตุ",
+        "start": "วันที่ลา",
+        "numbertitle": "จำนวนวันลา",
+        "numberday": "วัน",
+        "vacation_status": "สถานะขออนุมัติการลา",
+        "submit_document": "ยื่นเอกสารการลาหยุด",
+        "to_head": "เอกสารถึงหัวหน้าแผนก",
+        "to_hr": "เอกสารถึง HR",
+        "pending": "รออนุมัติการลา",
+        "approved": "อนุมัติการลา",
+        "reject": "ไม่อนุมัติการลา",
+        "to": "ถึงวันที่",
+        "ok": "ตกลง",
+        "cancel": "ยกเลิก"
+    },
+
+    "benefit": {
+        "benefit":"สวัสดิการและสิทธิประโยชน์",
+        "welfare": "สวัสดิการ",
+        "redeem": "เบิกสวัสดิการ"
+    },
+
+    "settings": {
+        "settings": "ตั้งค่า",
+        "language": "ภาษา",
+        "language_description": "เลือกภาษาที่ต้องการเปลี่ยนกับแอพพลิเคชั่นนี้",
+        "logout": "ล็อคเอ้าท์",
+        "logout_description": "ต้องการออกจากระบบหรือไม่",
+        "cancel": "ยกเลิก",
+        "change_success": "เปลี่ยนภาษาสำเร็จ",
+        "term": "ข้อกำหนดและเงื่อนไข"
+    }
+}

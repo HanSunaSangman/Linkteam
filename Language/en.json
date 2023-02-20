@@ -1,0 +1,153 @@
+{
+    "login": {
+        "logo": "Smart HR System",
+        "email": "Your Email / Number Phone :",
+        "password": "Password",
+        "login": "Log in",
+        "remember": "Remember Me",
+        "forgot": "Forgot Password?"
+    },
+    
+    "home": {
+        "hello": "Hello!",
+        "personal": "Personal Management",
+        "time": "Time Attendance and Leave Management",
+        "benefit": "Benefits and Welfare Management",
+        "evaluate": "Evaluate Management",
+        "engagement": "Engagement Management",
+        "notification": "Notification Management",
+        "payroll": "Payroll Management",
+        "recruitment": "Recruitment Management",
+        "training": "Training and Develop Management",
+        "quit": "Quit Application",
+        "quit_message": "Are you sure to quit application?",
+        "quit_ok": "OK",
+        "quit_cancel": "Cancel"
+    },
+
+    "profile":{
+        "profile": "Profile",
+        "asset": "Assets",
+        "companyprofile": "Company Profile",
+        "certificate": "Certificate",
+        "share": "Share Name Card",
+        "contact": "Contact",
+        "mobile": "Mobile",
+        "mail": "E-Mail",
+        "line": "Line",
+        "information": "Information",
+        "companyname": "Company Name",
+        "position": "Position",
+        "tel": "Tel",
+        "lineas": "Line@",
+        "taxid": "TAX ID",
+        "redeem": "Request Asset",
+        "asset_detail": "Asset Detail",
+        "return": "Return",
+        "serial":"Serial Number",
+        "addAsset":{
+            "chooseone": "Please choose your objective",
+            "brand": "Brand",
+            "model": "Model",
+            "quantity": "Quantity",
+            "objective": "Objective",
+            "reason": "Reason",
+            "please_fill": "Please fill this form",
+            "mark": "Mark",
+            "request": "Request",
+            "confirm": "Confirm your request",
+            "confirm_btn": "Confirm",
+            "confirm_description": "Tap confirm to send request",
+            "nodetail": "No message"
+        },
+        "type": "Category",
+        "computer": "Computer",
+        "equipment": "Office Equipment",
+        "borrow_date": "Borrow date",
+        "companyProfile":{
+            "word1": "WTC Computer บริษัท ดับบลิวทีซี คอมพิวเตอร์ จำกัด",
+            "word2": "เป็นบริษัทฯที่ดำเนินธุรกิจด้านการจำหน่าย Computer ทุกประเภท",
+            "word3": "รวมทั้งอุปกรณ์ IT และเทคโนโลยีสมัยใหม่ รวมทั้งให้บริการด้านการออกแบบ และวางระบบงานคอมพิวเตอร์อย่างครบวงจร (System Integration) โดยทีมบุคลากรที่มีประสบการณ์ากกว่า 20 ปี",
+            "contactus": "CONTACT US",
+            "webWtc": "www.wtc.co.th",
+            "faceWtc": "WTCComputerThailand",
+            "asWtc": "@WTCComputer",
+            "phoneWtc": "+66-2612-1188",
+            "sale": "sale@wtc.co.th",
+            "taxid": "0105535003874",
+            "address": "128/343-344 Phayathai Plaza 31st FL., Phatathai Rd. Thungphatathai, Ratchathewi, Bangkok, 10400",
+            "staffcontact": "Staff Contact",
+            "announce": "Announcement",
+            "search": "Search Staff contact",
+            "desk": "Desk NO.",
+            "call": "Call",
+            "email": "E-mail"
+        },
+        "document":{
+            "approve": "Approve",
+            "download": "Download"
+        },"card": {
+            "save": "Save",
+            "close": "Close",
+            "success": "Success saved to your photos"
+        }
+    },
+
+    "timeAttendance": {
+        "checkinworkplace": "Check in workplace",
+        "vacation_history": "Vacation history",
+        "vacation_detail": "Vacation Detail",
+        "holiday": "Holiday",
+        "checkin": "Check in",
+        "checkout": "Check out",
+        "checkin_out": "Time Attendance outside",
+        "in_time": "Attend time",
+        "out_time": "Leave time",
+        "total_hour": "Total working = ",
+        "hour": "hours"
+    },
+
+    "holiday": {
+        "type": "Type of holiday",
+        "day": "Day",
+        "leave_request": "Vacation request",
+        "start_date": "Start time and date",
+        "end_date": "End time and date",
+        "admit_leave": "Admit",
+        "business_leave": "Business",
+        "holiday_leave": "Holiday",
+        "chooseone": "Please choose type of holiday",
+        "selectDate": "Please select time and date",
+        "reason": "Reason",
+        "start": "Start",
+        "numbertitle": "Vacation Day",
+        "numberday": "Day",
+        "vacation_status": "Approval vacation status",
+        "submit_document": "Submit vacation document",
+        "to_head": "Document to head department",
+        "to_hr": "Document to Hr",
+        "pending": "Pending to approve",
+        "approved": "Approved",
+        "reject": "Not approved",
+        "to": "To",
+        "ok": "OK",
+        "cancel": "Cancel"
+    },
+
+    "benefit": {
+        "benefit":"Benefits and Welfare Management",
+        "welfare": "Welfare",
+        "redeem": "Redeem Benefit"
+    },
+
+    "settings": {
+        "settings": "Settings",
+        "language": "Language",
+        "language_description": "Choose language you want to change for application",
+        "logout": "Logout",
+        "logout_description": "Do you want to logout?",
+        "cancel": "Cancel",
+        "change_success": "Changed language",
+        "term": "Term and Condition"
+    }
+}

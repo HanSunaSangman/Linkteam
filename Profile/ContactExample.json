@@ -1,0 +1,59 @@
+[
+   {
+       "department_name": "ฝ่ายบริหาร",
+       "people": [
+           {"first_name": "ชูเกียรติ",
+           "email": "chookiatp@wtc.co.th",
+           "tel": "089-117-9989",
+           "desk_no": "134"},
+
+           {"first_name": "เพ็ญศรี",
+           "email": "pansrip@wtc.co.th",
+           "tel": "081-375-1553",
+           "desk_no": "101"},
+
+           {"first_name": "เอกลักษณ์",
+           "email": "ekaluckp@wtc.co.th",
+           "tel": "089-822-5445",
+           "desk_no": "140"}
+       ]
+   },
+
+   {
+    "department_name": "ฝ่ายบัญชีและการเงิน",
+    "people": [
+        {"first_name": "วิลาวรรณ",
+        "email": "vilawanp@wtc.co.th",
+        "tel": "081-457-4424",
+        "desk_no": "103"},
+
+        {"first_name": "พนิดา",
+        "email": "panidat@wtc.co.th",
+        "tel": "087-684-7089",
+        "desk_no": "111"},
+
+        {"first_name": "บุศริน",
+        "email": "butsarinm@wtc.co.th",
+        "tel": "094-801-6571",
+        "desk_no": "104"},
+
+        {"first_name": "ณัฏฐ์ณิชชา",
+        "email": "nutnichai@wtc.co.th",
+        "tel": "099-164-6361",
+        "desk_no": "102"},
+        {"first_name": "อุมาพร",
+        "email": "umapornp@wtc.co.th",
+        "tel": "088-297-5695",
+        "desk_no": "131"},
+        {"first_name": "อรุณี",
+        "email": "arunees@wtc.co.th",
+        "tel": "080-010-3642",
+        "desk_no": "106"},
+        {"first_name": "นันทิกา",
+        "email": "nuntikac@wtc.co.th",
+        "tel": "096-306-2662",
+        "desk_no": "103"}
+    ]
+}
+
+]

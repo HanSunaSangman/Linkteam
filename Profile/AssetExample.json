@@ -1,0 +1,28 @@
+[
+    {
+        "brand": "Apple",
+        "model": "Macbook Air",
+        "type": "Computer",
+        "serial": "C0123456789Z",
+        "borrow_date": "01/01/2020",
+        "return_date": null
+    },
+
+    {
+        "brand": "Sony",
+        "model": "Sony DSLR",
+        "type": "Equipment",
+        "serial": "C0123456789Z",
+        "borrow_date": "01/01/2020",
+        "return_date": null
+    },
+
+    {
+        "brand": "Dell",
+        "model": "Optiplex 3320",
+        "type": "Computer",
+        "serial": "E123456789C",
+        "borrow_date": "01/01/2020",
+        "return_date": "02/28/2020"
+    }
+]
